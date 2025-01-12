@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis
+# Twitter Data Sentiment Analysis
 
 ## Overview
 This project implements **Twitter Sentiment Analysis** using machine learning. The goal is to classify tweets as **positive** or **negative** based on their sentiment. The model was trained on a dataset of 1.6 million tweets and achieved an accuracy of **77.65%** using a **Logistic Regression model**.
